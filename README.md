@@ -8,7 +8,7 @@ Welcome to the **Smartphone Price Predictor 2025** - a machine learning-based we
 
 Check out the demo video of the **Smartphone Price Predictor 2025** app in action:
 
-(https://github.com/user-attachments/assets/424e71d2-dfbf-417d-bc9d-adaa76833315)
+https://github.com/user-attachments/assets/424e71d2-dfbf-417d-bc9d-adaa76833315
 
 ---
 
