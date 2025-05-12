@@ -20,8 +20,8 @@ input_columns = [
 st.title("Smartphone Price Predictor")
 
 # User inputs
-ram = st.selectbox('RAM (in GB)', [2, 3, 4, 6, 8, 12, 16, 24, 32])
 brand = st.selectbox('Brand', brand_names).lower()
+ram = st.selectbox('RAM (in GB)', [2, 3, 4, 6, 8, 12, 16, 24, 32])
 rom_size = st.selectbox('ROM Size (in GB)', [16, 32, 64, 128, 256, 512, 1000, 2000])
 screen_size = st.slider('Screen Size (in inches)', 4.0, 8.0, 6.5)
 battery_capacity = st.number_input('Battery Capacity (in mAh)', min_value=1000, max_value=9000, step=100, value=5000)
