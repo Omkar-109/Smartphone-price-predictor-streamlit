@@ -85,8 +85,8 @@ To run the app locally:
 
 1. **Clone the repo**
    ```
-   git clone https://github.com/yourusername/smartphone-price-predictor-2025.git
-   cd smartphone-price-predictor-2025
+   git clone https://github.com/Omkar-109/Smartphone-price-predictor-streamlit.git
+   cd Smartphone-price-predictor-streamlit
    ```
 
 2. **Create Conda environment**
