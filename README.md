@@ -6,9 +6,16 @@ Welcome to the **Smartphone Price Predictor 2025** - a machine learning-based we
 
 ## 🎥 Demo Video
 
-Check out the demo of the **Smartphone Price Predictor 2025** app in action:
+Check out the demo video of the **Smartphone Price Predictor 2025** app in action:
 
-[![Smartphone Price Predictor Demo](https://github.com/user-attachments/assets/424e71d2-dfbf-417d-bc9d-adaa76833315)
+(https://github.com/user-attachments/assets/424e71d2-dfbf-417d-bc9d-adaa76833315)
+
+---
+
+## 🚀 Live App (Streamlit)
+
+Try out the model live here:  
+🌐 [Streamlit App](https://smartphone-price-predictor-2025.streamlit.app)
 
 ---
 
@@ -70,13 +77,6 @@ The app is built using [Streamlit](https://streamlit.io/) to allow users to inte
 - User selects RAM, brand, ROM size, screen size, and camera specs.
 - Output is the predicted price of the smartphone.
 - Responsive design, local image assets, and a dark-friendly UI.
-
----
-
-## 🚀 Live App (Streamlit)
-
-Try out the model live here:  
-🌐 [Streamlit App](https://smartphone-price-predictor-2025.streamlit.app)
 
 ---
 
