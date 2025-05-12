@@ -76,7 +76,6 @@ The app is built using [Streamlit](https://streamlit.io/) to allow users to inte
 
 - User selects RAM, brand, ROM size, screen size, and camera specs.
 - Output is the predicted price of the smartphone.
-- Responsive design, local image assets, and a dark-friendly UI.
 
 ---
 
